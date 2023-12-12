@@ -1,4 +1,4 @@
-# Online Elecitricity Billing System in PHP
+# Online Elecitricity Billing System
 ------------------------------------------------------
 ### Introduction
 This simple project is a Simple Electricity Billing System for National Electricity Regulation Commission, Nigeria. 
